@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sqh:home|Door43 (sqh)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sqh|d43-sqh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sqh/archive/master.zip|d43-sqh.zip]]
+
+**Recent Changes**
+{{changes>ns = sqh}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sqh|Ethnologue data]]
+
